@@ -22,7 +22,8 @@ This theme includes the following features:
 
 ## Screenshots
 
-![Screenshot of the S.H.S Dark Colorful theme](./screenshots/theme-screenshot.png)
+![Screenshot of the S.H.S Dark Colorful theme](/Screenshot%202023-04-15%20102906.png)
+![Screenshot of the S.H.S Dark Colorful theme](/Screenshot%202023-04-15%20110056.png)
 
 ## Issues
 
