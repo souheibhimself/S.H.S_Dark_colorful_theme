@@ -38,7 +38,7 @@ Contributions are welcome! If you would like to contribute to this theme, please
 This theme is inspired by the Outrun meets Synthwave Theme for VS Code.
 
 ## Licence 
-This theme is licensed under the [MIT License](./LICENSE). See the full text of the license for details.
+This theme is licensed under the [MIT License](./LICENSE.txt). See the full text of the license for details.
 ## About the Author
 My name is Souheib Houssein and I am a developer and this is my dream theme , you can visite my [GitHub profile](https://github.com/souheibhimself) for more details.
 ## License
